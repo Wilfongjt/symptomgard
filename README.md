@@ -20,3 +20,11 @@ Generalization: [Frontend] <-> [API] <-> [Backend]
 * SSL
 * Encryption at rest
 * Encryption in transit
+
+# Keys (.env)
+
+LB-GOOGLE-MAP-KEY=<your-google-key>
+  
+LB-API-KEY=<found-on-your-account-page>
+
+
