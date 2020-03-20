@@ -25,6 +25,6 @@ Generalization: [Frontend] <-> [API] <-> [Backend]
 
 LB-GOOGLE-MAP-KEY=\<your-google-key\>
 
-LB-API-KEY=\<found-on-your-account-page\>
+LB-API-KEY=\<found-on-User-Credential-Form\>
 
 
