@@ -1,27 +1,27 @@
 # SymptomGard
 SymptomGard is a public health map.
 
-# Architecture: 
+## Architecture: 
 Generalization: [Frontend] <-> [API] <-> [Backend] 
 * Application frontend is a web site
 * Application Programming Interface (API)
 * Data Store Backend
 
-# Data Flow
-## Inputs:
+## Data Flow
+### Inputs:
 * Health-Survey-Form to API to Datastore
 * User-Credential-Form to API to Datastore
 
-## Outputs:
+### Outputs:
 * Datastore to API to Symptom-Map
 * Datastore to API to User-Credentials-Form
 
-# Security
+## Security
 * SSL
 * Encryption at rest
 * Encryption in transit
 
-# Keys (.env)
+## Keys (.env)
 
 LB-GOOGLE-MAP-KEY=\<your-google-key\>
 
