@@ -1,2 +1,2 @@
-# symptomgard
-Map locations of symptoms gathered from a survey.
+# SymptomGard
+SymptomGard is a public health map.
