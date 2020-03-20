@@ -5,7 +5,7 @@ SymptomGard is a public health map.
 Generalization: [Frontend] <-> [API] <-> [Backend] 
 * Application frontend is a web site
 * Application Programming Interface (API)
-* Data Store Backend
+* Datastore Backend
 
 ## Data Flow
 ### Inputs:
