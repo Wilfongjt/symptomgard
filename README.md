@@ -24,6 +24,7 @@ Generalization: [Frontend] <-> [API] <-> [Backend]
 # Keys (.env)
 
 LB-GOOGLE-MAP-KEY=\<your-google-key\>
+
 LB-API-KEY=\<found-on-your-account-page\>
 
 
